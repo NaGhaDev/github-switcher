@@ -24,6 +24,7 @@ Cette méthode exécute le script directement sans l'installer comme une command
 
 ```bash
 /bin/bash -c "$(curl -fsSL <https://raw.githubusercontent.com/NaGhaDev/github-switcher/main/github-switcher.sh>)"
+```
 
 ### Option 2 : Installation locale (recommandée)
 
